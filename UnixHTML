@@ -1,8 +1,9 @@
 <html>
     <head>
-        <title> Unix HTML file</title>
+        <title> HTML File </title>
     </head>
     <body>
-        This is my html file for unix lab 1
+        <h2> this is my html file</h2>
+        <h2> I just edited this on VS </h2>
     </body>
 </html>
